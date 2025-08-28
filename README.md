@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
-      <img src="assets/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
@@ -239,7 +234,3 @@ interface TrendingCardProps {
 ## <a name="links">🔗 Assets</a>
 
 Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/rn25-movie)**.
-
-<a href="https://jsm.dev/rn25-movie" target="_blank">
-  <img src="assets/readme/videokit.webp" alt="Video Kit Banner">
-</a>
